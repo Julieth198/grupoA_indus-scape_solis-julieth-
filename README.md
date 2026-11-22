@@ -24,3 +24,9 @@ Indus Scape es un videojuego educativo cooperativo desarrollado como propuesta p
 | RNF-01 | No funcional | La validación de respuestas deberá realizarse en un máximo de 3 segundos bajo condiciones normales de conexión. | Medir el tiempo de respuesta de varias validaciones. | Cada validación tarda 3 segundos o menos. |
 | RNF-02 | No funcional | El videojuego deberá poder utilizarse desde computadora, tablet y celular. | Abrir el juego en los tres dispositivos y probar el lobby y las terminales. | Las funciones principales funcionan en los tres dispositivos. |
 
+## Documento completo
+
+[TPE4_Requerimientos_y_Pruebas.pdf](TPE4_Requerimientos_y_Pruebas.pdf)
+
+
+
